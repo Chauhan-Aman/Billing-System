@@ -24,3 +24,10 @@ Thumbs.db
 # Database credentials
 src/main/resources/db.properties
 src/main/resources/img
+
+# Ignore Maven generated files
+dependency-reduced-pom.xml
+
+# Ignore NetBeans-specific files
+nbactions.xml
+nbproject/private/
