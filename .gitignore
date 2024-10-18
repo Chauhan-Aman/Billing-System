@@ -1,0 +1,26 @@
+# Maven target folder (generated)
+target/
+
+# Eclipse & NetBeans specific files
+.classpath
+.project
+.settings/
+nbproject/private/
+
+# IntelliJ specific files
+*.iml
+.idea/
+
+# IDE workspace and settings
+*.log
+*.swp
+*.DS_Store
+.vscode/
+
+# Operating system specific
+Thumbs.db
+.DS_Store
+
+# Database credentials
+src/main/resources/db.properties
+src/main/resources/img
